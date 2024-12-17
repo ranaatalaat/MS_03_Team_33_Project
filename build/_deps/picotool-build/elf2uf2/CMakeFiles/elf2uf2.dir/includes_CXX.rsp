@@ -1,0 +1,1 @@
+-I"C:/Users/X-J/Desktop/Raspberry-Pi-Pico-master/FreeRTOS_Blink/build/_deps/picotool-src/elf2uf2" -I"C:/Users/X-J/Desktop/Raspberry-Pi-Pico-master/FreeRTOS_Blink/build/_deps/picotool-src/elf" -I"C:/Users/X-J/Desktop/Raspberry-Pi-Pico-master/FreeRTOS_Blink/build/_deps/picotool-src/errors" -isystem "C:/VSARM/sdk/pico/pico-sdk/src/common/boot_uf2_headers/include"

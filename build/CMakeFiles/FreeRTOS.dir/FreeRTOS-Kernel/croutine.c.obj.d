@@ -1,0 +1,20 @@
+CMakeFiles/FreeRTOS.dir/FreeRTOS-Kernel/croutine.c.obj: \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\croutine.c \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/FreeRTOS.h \
+ c:\vsarm\armcc\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ c:\vsarm\armcc\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\stdint.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\machine\_default_types.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\features.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\_newlib_version.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\_intsup.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\_stdint.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\inc/FreeRTOSConfig.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/projdefs.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/portable.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/deprecated_definitions.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\portable\GCC\ARM_CM0/portmacro.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/mpu_wrappers.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/task.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/list.h \
+ C:\Users\X-J\Desktop\Raspberry-Pi-Pico-master\FreeRTOS_Blink\FreeRTOS-Kernel\include/croutine.h
